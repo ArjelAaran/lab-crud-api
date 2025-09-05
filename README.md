@@ -16,6 +16,7 @@ This API also has CORS enabled to ensure compatibility with front-end applicatio
 	Paste in terminal
 
 git clone https://github.com/your-username/lab-crud-api.git
+
 cd lab-crud-api
 
 2. Install dependencies
